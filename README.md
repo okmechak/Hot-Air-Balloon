@@ -3,12 +3,15 @@
 Hot Air Balloon - lighter than air aircraft that gains its lift through the use of buoyant gas. In this case - hot gas. 
 Average density of aircraft is lower than the density of atmosphere air.
 
+![Stylized picture of balloon](Type-A14-Sunday/images/3d3-photoshop.bmp)
+###### Yeap, at beginning I thought to name balloon as EUROPA. But Last version should be - Sunday.
+
 Repository contains code which helps to project hot air balloon.
 
 Program consist of three main files:
 - balloon.pas - helps to project geometry of your own balloon.
 - pascal.pas - evaluates phisical forces and parameters of balloon.
-- 3-d Model.pas - used for 3D wisualization of balloon.
+- 3D-model.pas - used for 3D visualization of balloon.
 
 ## Sunday
 
@@ -16,9 +19,29 @@ Also repository contains my own project for one person Hot Air Ballon(see folder
 Why Sunday? Becouse Ballon demmands good weather conditions for flight, temperature, wind, hummidity etc.. 
 in same way as we demand a good weather to sunday walk ;)
 
-### Geometry:
-### Physical Forces:
-### 3D Model:
+Some main model parameters are contained in:
+- info.txt
+- main-parameters.txt
+- Money-And-Tools.txt
+
+But let write down two most imporatnt of them:
+- __Lift mass - 180 kg__ 
+- __Volume - 650 m^3__
+
+As you can see it is pretty big balloon!
+
+### Geometry
+![Geometry of Sunday](Type-A14-Sunday/12-20-2010-8-21-52-PM.bmp)
+
+### Physical Forces
+![Physical Forces of Sunday](Type-A14-Sunday/Phisics.bmp)
+
+### Cutting Scheme
+![Cutting Scheme of Sunday](Type-A14-Sunday/untitled.bmp)
+
+### 3D Model
+![3D Model of Sunday](Type-A14-Sunday/images/3d3-photoshop.bmp)
+
 
 
 ## History
