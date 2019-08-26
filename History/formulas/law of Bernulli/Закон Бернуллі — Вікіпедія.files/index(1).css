@@ -1,0 +1,139 @@
+BODY.page-Головна_стаття #lastmod {
+	DISPLAY: none! important
+}
+BODY.page-Головна_стаття #siteSub {
+	DISPLAY: none! important
+}
+BODY.page-Головна_стаття #contentSub {
+	DISPLAY: none! important
+}
+BODY.page-Головна_стаття H1.firstHeading {
+	DISPLAY: none! important
+}
+#content {
+	BACKGROUND: #fcffff
+}
+#content DIV.thumb {
+	BORDER-LEFT-COLOR: #fcffff; BORDER-BOTTOM-COLOR: #fcffff; BORDER-TOP-COLOR: #fcffff; BORDER-RIGHT-COLOR: #fcffff
+}
+.ns-0  #content {
+	BACKGROUND: white
+}
+#mytabs LI {
+	BACKGROUND: #fcffff
+}
+.ns-0  #mytabs LI {
+	BACKGROUND: white
+}
+#mytabs LI A {
+	BACKGROUND-COLOR: #fcffff
+}
+.ns-0  #mytabs LI A {
+	BACKGROUND-COLOR: white
+}
+#p-cactions LI {
+	BACKGROUND: #fcffff
+}
+.ns-0  #p-cactions LI {
+	BACKGROUND: white
+}
+#p-cactions LI A {
+	BACKGROUND-COLOR: #fcffff
+}
+.ns-0  #p-cactions LI A {
+	BACKGROUND-COLOR: white
+}
+.ns-0  #content DIV.thumb {
+	BORDER-LEFT-COLOR: white; BORDER-BOTTOM-COLOR: white; BORDER-TOP-COLOR: white; BORDER-RIGHT-COLOR: white
+}
+#siteSub {
+	DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 95%
+}
+#bodyContent #siteSub A {
+	PADDING-RIGHT: 0px; BACKGROUND-IMAGE: none; COLOR: #000; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+#ca-edit A {
+	FONT-WEIGHT: bold! important
+}
+#pt-login {
+	FONT-WEIGHT: bold; FONT-SIZE: 110%
+}
+
+@media Print    
+{
+.editlink {
+	DISPLAY: none
+}
+.noprint {
+	DISPLAY: none
+}
+.metadata {
+	DISPLAY: none
+}
+.dablink {
+	DISPLAY: none
+}
+    }
+.toccolours {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #aaaaaa 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 95%; PADDING-BOTTOM: 5px; BORDER-LEFT: #aaaaaa 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #aaaaaa 1px solid; BACKGROUND-COLOR: #f9f9f9
+}
+.portlet A {
+	TEXT-DECORATION: none
+}
+.portlet A:hover {
+	TEXT-DECORATION: underline
+}
+.pBody {
+	moz-border-radius-topright: 1em
+}
+#p-cactions UL LI {
+	moz-border-radius-topright: 1em
+}
+#p-cactions UL LI A {
+	moz-border-radius-topright: 1em
+}
+#content {
+	moz-border-radius-topleft: 1em
+}
+#searchGoButton {
+	PADDING-RIGHT: 0.3em; PADDING-LEFT: 0.2em; FONT-WEIGHT: bold
+}
+#mw-searchButton {
+	PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.1em
+}
+#siteNotice {
+	MARGIN-TOP: 5px; PADDING-LEFT: 4px; FONT-STYLE: italic; TEXT-ALIGN: center
+}
+.notice {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 1em 0.5em; PADDING-TOP: 0.5em; TEXT-ALIGN: justify
+}
+.editsection {
+	FLOAT: right; MARGIN-LEFT: 5px
+}
+#p-search {
+	POSITION: relative; TOP: 5px
+}
+#p-navigation {
+	POSITION: relative; TOP: 5px
+}
+#p-tb {
+	POSITION: relative; TOP: 5px
+}
+DIV.topicon {
+	DISPLAY: block! important; Z-INDEX: 100; POSITION: absolute; TOP: 10px
+}
+.plainlinksneverexpand A.text:unknown {
+	DISPLAY: none! important
+}
+.portlet LI {
+	LIST-STYLE-IMAGE: url(http://upload.wikimedia.org/wikipedia/en/1/18/Monobook-bullet.png)
+}
+LI.FA {
+	LIST-STYLE-IMAGE: url(http://upload.wikimedia.org/wikipedia/en/d/d4/Monobook-bullet-star.png)
+}
+#userSummaryButtonsA A {
+	BORDER-RIGHT: #9bd5f5 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #9bd5f5 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 80%; BACKGROUND: #c2f2ff; PADDING-BOTTOM: 0px; MARGIN: 2px; BORDER-LEFT: #9bd5f5 1px solid; CURSOR: pointer; COLOR: #5b5b5b; LINE-HEIGHT: 17px; PADDING-TOP: 0px; BORDER-BOTTOM: #9bd5f5 1px solid
+}
+#userSummaryButtonsA A:hover {
+	BORDER-RIGHT: #64bdf0 1px solid; BORDER-TOP: #64bdf0 1px solid; BACKGROUND: #b1ebff; BORDER-LEFT: #64bdf0 1px solid; COLOR: #000000; BORDER-BOTTOM: #64bdf0 1px solid; TEXT-DECORATION: none
+}

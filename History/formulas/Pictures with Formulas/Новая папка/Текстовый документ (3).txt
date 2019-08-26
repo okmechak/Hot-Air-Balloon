@@ -1,0 +1,214 @@
+Aerodynamics 
+
+
+
+
+Stability Concepts 
+
+The aircraft's response to momentary disturbance is associated with its 
+inherent degree of stability built in by the designer, in each of the three axes, 
+and occurring without any reaction from the pilot. 
+
+There is another condition affecting flight, which is the aircraft's state of trim 
+or equilibrium (where the net sum of all forces equals zero). 
+Some aircraft can be trimmed by the pilot to fly 'hands off' for straight and 
+level flight, for climb or for descent. 
+
+Free flight models generally have to rely on the state of trim built in by the
+designer and adjusted by the rigger, while the remote controlled models have
+some form of trim devices which are adjustable during the flight. 
+
+An aircraft's stability is expressed in relation to each axis: 
+lateral stability (stability in roll), directional stability (stability in yaw)
+and longitudinal stability (stability in pitch).
+Lateral and directional stability are inter-dependent. 
+
+ 
+
+Stability may be defined as follows:
+- Positive stability - tends to return to original condition after a disturbance.
+- Negative stability - tends to increase the disturbance.
+- Neutral stability - remains at the new condition.
+- Static stability - refers to the aircraft's initial response to a disturbance.
+- Dynamic stability - refers to the aircraft response over time to a disturbance,
+                      which is related to how fast or how slow it responds to a disturbance. 
+
+So, a static stable aircraft may be dynamically unstable.
+Dynamic instability may be prevented by an even distribution of weight inside the
+fuselage, avoiding too much weight concentration at the extremities or at the CG.
+Also, control surfaces' max throws may affect the flight stability, since a too much
+control throw may cause dynamic instability, e.g. Pilot Induced Oscillations (PIO). 
+
+A totally stable aircraft will return, more or less immediately, to its trimmed 
+state without pilot intervention.
+However, such an aircraft is rare and not much desirable. We usually want an 
+aircraft just to be reasonably stable so it is easy to fly.
+If it is too stable, it tends to be sluggish in manoeuvring, exhibiting too slow 
+response on the controls. 
+
+Too much instability is also an undesirable characteristic, except where an
+extremely manoeuvrable aircraft is needed and the instability can be continually
+corrected by on-board 'fly-by-wire' computers rather than the pilot, such as a
+supersonic air superiority fighter. 
+
+Lateral stability is achieved through dihedral, sweepback, keel effect and
+proper distribution of weight.
+The dihedral angle is the angle that each wing makes with the horizontal (see
+Wing Geometry).
+If a disturbance causes one wing to drop, the lower wing will receive more lift
+and the aircraft will roll back into the horizontal level. 
+
+A sweptback wing is one in which the leading edge slopes backward. 
+When a disturbance causes an aircraft with sweepback to slip or drop a wing,
+the low wing presents its leading edge at an angle more perpendicular to the
+relative airflow. As a result, the low wing acquires more lift and rises, restoring
+the aircraft to its original flight attitude. 
+
+The keel effect occurs with high wing aircraft. These are laterally stable simply
+because the wings are attached in a high position on the fuselage, making the
+fuselage behave like a keel. 
+When the aircraft is disturbed and one wing dips, the fuselage weight acts like
+a pendulum returning the aircraft to the horizontal level. 
+
+The tail fin determines the directional stability.
+If a gust of wind strikes the aircraft from the right it will be in a slip and the fin
+will get an angle of attack causing the aircraft to yaw until the slip is eliminated. 
+
+
+ 
+
+Longitudinal stability depends on the location of the centre of gravity, the
+stabiliser area and how far the stabiliser is placed from the main wing.
+Most aircraft would be completely unstable without the horizontal stabiliser. 
+
+Non-symmetrical cambered airfoils have a higher lift coefficient, but they also 
+have a negative pitching moment (Cm) tending to pitch nose-down, and thus 
+being statically unstable, which requires the counter moment produced by the 
+horizontal stabiliser to get adequate longitudinal stability.
+The stabiliser provides the same function in longitudinal stability as the fin does
+in directional stability. 
+
+Symmetrical (zero camber) airfoils have normally a zero pitching moment,
+resulting in neutral stability, which means the aircraft goes wherever you point it.
+Reflexed airfoils (with trailing edge bent up) have a positive pitching moment
+making them naturally stable, they are often used with flying wings (without the
+horizontal stabiliser). 
+
+It is of crucial importance that the aircraft's Centre of Gravity (CG) is located 
+at the right point, so that a stable and controllable flight can be achieved.
+In order to achieve a good longitudinal stability, the CG should be ahead of the 
+Neutral Point (NP), which is the Aerodynamic Centre of the whole aircraft. 
+NP is the position through which all the net lift increments act for a change in 
+angle of attack.
+The major contributors are the main wing, stabiliser surfaces and fuselage. 
+
+The bigger the stabiliser area in relationship to the wing area and the longer 
+the tail moment arm relative to the wing chord, the farther aft the NP will be and 
+the farther aft the CG may be, provided it's kept ahead of the NP for stability. 
+
+ 
+
+The angle of the fuselage to the direction of flight affects its drag, but has little
+effect on the pitch trim unless both the projected area of the fuselage and its
+angle to the direction of flight are quite large. 
+
+A tail-heavy aircraft will be more unstable and susceptible to stall at low speed
+e. g. during the landing approach.
+A nose-heavy aircraft will be more difficult to takeoff from the ground and to
+gain altitude and will tend to drop its nose when the throttle is reduced. It also
+requires higher speed in order to land safely. 
+
+The angle between the wing chord line and the stabiliser chord line is called 
+the Longitudinal Dihedral (LD) or decalage.
+For a given centre of gravity, there is a LD angle that results in a certain 
+trimmed flight speed and pitch attitude. 
+If the LD angle is increased the plane will take on a more nose up pitch attitude,
+whereas with a decreased LD angle the plane will take on a more nose down
+pitch attitude. 
+There is also the Angle of Incidence, which is the angle of a flying surface
+related to a common reference line drawn by the designer along the fuselage.
+The designer might want this reference line to be level when the plane is flying 
+at level flight or when the fuselage is in it's lowest drag position.
+The purpose of the reference line is to make it easier to set up the relationships 
+among the thrust, the wing and the stabiliser incidence angles.
+Thus, the Longitudinal Dihedral and the Angle of Incidence are interdependent. 
+
+Longitudinal stability is also improved if the stabiliser is situated so that it lies
+outside the influence of the main wing downwash.
+Stabilisers are therefore often staggered and mounted at a different height in 
+order to improve their stabilising effectiveness. 
+
+It has been found both experimentally and theoretically that, if the aerodynamic 
+force is applied at a location 1/4 from the leading edge of a rectangular wing 
+at subsonic speed, the magnitude of the aerodynamic moment remains nearly 
+constant even when the angle of attack changes.
+This location is called the wing's Aerodynamic Centre AC. 
+(At supersonic speed, the aerodynamic centre is near 1/2 of the chord). 
+
+ 
+
+In order to obtain a good Longitudinal Stability the Centre of Gravity CG
+should be close to the main wings' Aerodynamic Centre AC.
+For wings with other than rectangular form (such as triangular, trapezoidal, 
+compound, etc.) we have to find the Mean Aerodynamic Chord MAC, which 
+is the average for the whole wing. See the drawings below: 
+
+
+
+
+For a delta wing the CG should be located 10% ahead of the geometrically
+calculated AC point as shown above.
+
+The MAC of an elliptical wing is 85% of the root chord and is located at 53% of
+the half wingspan from the root chord. 
+
+The AC location for biplanes with positive stagger (top wing ahead of the bottom
+wing), is found according to the drawing below.
+
+For conventional designs (with main wing and horizontal stab) the CG location 
+range is usually between 28% and 33% from the leading edge of the main
+wing's MAC, which means between about 5% and 15% ahead of the aircraft's 
+Neutral Point NP.
+This is called the Static Margin, which is expressed as a percentage of MAC.
+When the static margin is zero (CG coincident with NP) the aircraft is considered
+"neutrally stable".
+However, for conventional designs the static margin should be between 5% and 
+15% of the MAC ahead of the NP. 
+
+The CG location as described above is pretty close to the wing's Aerodynamic
+Center AC because the lift due to the horizontal stab has only a slightly effect on
+the conventional R/C models. 
+
+However, those figures may vary with other designs, as the NP location depends 
+on the size of the main wing vs. the stab size and the distance between the main 
+wing's AC and the stab's AC.
+The simplest way of locating the aircraft's NP is by using the areas of the two 
+horizontal lifting surfaces (main wing and stab) and locate the NP proportionately
+along the distance between the main wing's AC point and the stab's AC point.
+For example, the NP distance to the main wing's AC point would be:
+D = L · (stab area) / (main wing area + stab area) as shown on the picture below:
+ 
+
+There are other factors, however, that make the simple formula above inaccurate.
+In case the two wings have different aspect ratios (different dCL/d-alpha) the NP
+will be closer to the one that has higher aspect ratio.
+Also, since the stab operates in disturbed air, the NP will be more forward than
+the simple formula predicts. 
+
+The figure below shows a somewhat more complex formula to locate the NP but
+would give a more accurate result using the so called Tail Volume Ratio, Vbar.
+This formula gives the NP position as a percentage (%) of the wing's MAC aft of 
+the wing's AC point. 
+
+ 
+
+For those who are not so keen on formulas and calculations there is the
+Aircraft Center of Gravity Calculator, which automatically calculates the CG 
+location as well as other usuful parameters based on the formula above. 
+
+For Canards check the link below:
+Canard Center of Gravity Calculator 
+
+For further equations on how to find the proper CG location with different wing
+shapes and design configurations including Canards, check here. 
+

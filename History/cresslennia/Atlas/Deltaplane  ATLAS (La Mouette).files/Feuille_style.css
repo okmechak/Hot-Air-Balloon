@@ -1,0 +1,165 @@
+BODY {
+	FONT-SIZE: 8pt; COLOR: #0033cc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #006699; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+P {
+	FONT-SIZE: 8pt; COLOR: #0033cc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.monp {
+	FONT-SIZE: 8pt; COLOR: #0033cc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #330099; FONT-STYLE: italic; LETTER-SPACING: 2px; FONT-VARIANT: normal
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #330099
+}
+H3 {
+	FONT-WEIGHT: lighter; FONT-SIZE: x-small; COLOR: #4a6fce
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: medium; COLOR: #00cc99; FONT-STYLE: normal; LETTER-SPACING: 3px
+}
+H5 {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; COLOR: #0033cc; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; TEXT-ALIGN: justify
+}
+H6 {
+	FONT-SIZE: x-small; VERTICAL-ALIGN: middle; COLOR: #ffffff; BACKGROUND-COLOR: #00cc99; TEXT-ALIGN: center
+}
+TABLE {
+	FONT-SIZE: 8pt; COLOR: #fff; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif
+}
+TR {
+	FONT-SIZE: 8pt; COLOR: #fff; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif
+}
+TD {
+	FONT-SIZE: 8pt; COLOR: #fff; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif
+}
+.news-cellule {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.news-cellule {
+	COLOR: #330099
+}
+.news-ligneBB {
+	BACKGROUND-COLOR: #fff2e8
+}
+.news-ligneB {
+	BACKGROUND-COLOR: #ffffff
+}
+.news-ligneA {
+	BACKGROUND-COLOR: #c3e5fa
+}
+.annuaire-cellule {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #330099; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.annuaire-ligne {
+	BACKGROUND-COLOR: #e7e6f9
+}
+.annuaire-ligne2 {
+	BACKGROUND-COLOR: #dadafa
+}
+.annuaire-off-cellule {
+	FONT-SIZE: 8pt; COLOR: #330099; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e7e6f9; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.tour-table {
+	BORDER-RIGHT: #3a1a4d 2px solid; BORDER-TOP: #3a1a4d 2px solid; BORDER-LEFT: #3a1a4d 2px solid; BORDER-BOTTOM: #3a1a4d 2px solid; BACKGROUND-COLOR: #ffffff
+}
+.connecte {
+	FONT-SIZE: 10px; COLOR: #0033cc; LETTER-SPACING: -1px
+}
+.font-table {
+	FONT-SIZE: 8pt; COLOR: #002593
+}
+.font-table-grand {
+	FONT-SIZE: 10pt; COLOR: #002593
+}
+.font-table-petit {
+	FONT-SIZE: 7pt; COLOR: #002593
+}
+.font-p {
+	FONT-SIZE: 8pt
+}
+.ligne_disc {
+	FONT-SIZE: 7pt; COLOR: #0033cc
+}
+.occaslink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt
+}
+.lien_accueil {
+	FONT-WEIGHT: normal; FONT-SIZE: 7pt
+}
+.lien_commentaire {
+	FONT-WEIGHT: normal; FONT-SIZE: 7pt; FONT-STYLE: italic
+}
+.maintitle {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(/forum/style_images/1/tile_back.gif); PADDING-BOTTOM: 8px; VERTICAL-ALIGN: middle; COLOR: #fff; PADDING-TOP: 8px
+}
+.tableborder {
+	BORDER-RIGHT: #345487 1px solid; BORDER-TOP: #345487 1px solid; BORDER-LEFT: #345487 1px solid; BORDER-BOTTOM: #345487 1px solid; BACKGROUND-COLOR: #fff
+}
+.row4 {
+	BACKGROUND-COLOR: #efefef
+}
+.row2 {
+	BACKGROUND-COLOR: #dee3e7
+}
+.montexte {
+	FONT-SIZE: 8pt; COLOR: #000; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif
+}
+.montexte_grand {
+	FONT-SIZE: 14pt; COLOR: #3a4f6c; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif
+}
+.montexte_petit {
+	FONT-SIZE: 7pt; COLOR: #000; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif
+}
+.montexte_moyen {
+	FONT-SIZE: 10px; COLOR: #000; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif
+}
+.montexte_bleu {
+	FONT-SIZE: 8pt; COLOR: #0033cc; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif
+}
+.montexte_rouge {
+	FONT-SIZE: 8pt; COLOR: #ff0000; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif
+}
+.montexte_bleu_petit {
+	FONT-SIZE: 7pt; COLOR: #0033cc; FONT-FAMILY: Verdana, Tahoma, Arial, sans-serif
+}
+.lien_pas_gras {
+	FONT-WEIGHT: normal
+}
+.lien_blanc {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.lien_blanc_pas_gras {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.submenu {
+	BORDER-RIGHT: #bcd0ed 1px solid; BORDER-TOP: #bcd0ed 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 10px; MARGIN: 0px; BORDER-LEFT: #bcd0ed 1px solid; COLOR: #3a4f6c; BORDER-BOTTOM: #bcd0ed 1px solid; BACKGROUND-COLOR: #dfe6ef
+}
+.submenu A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #3a4f6c; TEXT-DECORATION: none
+}
+.submenu A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #3a4f6c; TEXT-DECORATION: none
+}
+.submenu A:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #3a4f6c; TEXT-DECORATION: none
+}
+.darkrow2 {
+	COLOR: #3a4f6c; BACKGROUND-COLOR: #bcd0ed
+}
+.img_center {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.img_border {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+.pformstrip {
+	PADDING-RIGHT: 7px; MARGIN-TOP: 1px; PADDING-LEFT: 7px; FONT-WEIGHT: bold; PADDING-BOTTOM: 7px; COLOR: #3a4f6c; PADDING-TOP: 7px; BACKGROUND-COLOR: #d1dceb
+}

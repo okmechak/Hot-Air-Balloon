@@ -1,0 +1,408 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0072)http://www.ajdesigner.com/phpwinglift/wing_lift_equation_air_density.php -->
+<HTML><HEAD><TITLE>Airplane Aircraft Wing Lift Design Equations Formulas Calculator - Air Density</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META 
+content="Calculator solving for airplane aircraft wing air density given force, coefficient, velocity and area" 
+name=description>
+<META 
+content="airplane, aircraft, wing, lift, density, velocity, air, coefficient" 
+name=keywords><LINK href="wing_lift_equation_air_density.files/ajstyle.css" 
+type=text/css rel=stylesheet>
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR></HEAD>
+<BODY>
+<TABLE cellSpacing=5 cellPadding=0 width=980 align=center bgColor=#f7f7f7>
+  <TBODY>
+  <TR>
+    <TD><A href="http://www.ajdesigner.com/index.htm"><IMG height=66 
+      alt="AJ Design Engineering Software Home Page" 
+      src="wing_lift_equation_air_density.files/logo.png" width=110 
+      border=0></A><BR><!-- google_ad_section_start(weight=ignore) -->
+      <TABLE cellSpacing=0 cellPadding=3 width="100%" bgColor=#d5eaff 
+        border=0><TBODY>
+        <TR>
+          <TD>&nbsp;<FONT face="Verdana, Arial, Helvetica, sans-serif" size=2> 
+            <A 
+            href="http://www.ajdesigner.com/index.htm">Home</A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            <A href="http://www.ajdesigner.com/index_02.htm">Page 
+            2</A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A 
+            href="http://www.ajdesigner.com/index_03.htm">Page 
+            3</A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A 
+            href="http://www.ajdesigner.com/index_04.htm">Page 
+            4</A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A 
+            href="http://www.ajdesigner.com/index_physics.php">Physics</A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            <A href="http://www.ajdesigner.com/index_math.php">Math 
+            Geometry</A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A 
+            href="http://www.ajdesigner.com/index_fluid_mechanics.php">Fluid 
+            Mechanics</A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A 
+            href="http://www.ajdesigner.com/fl_horsepower_trap_speed/horsepower_trap_speed.php">Engine 
+            Horsepower</A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A 
+            href="http://www.ajdesigner.com/fl_loan/loan.php">Loan 
+            Calculator</A> </FONT></TD></TR>
+        <TR>
+          <TD><IMG height=7 alt="" 
+            src="wing_lift_equation_air_density.files/dot_red.bmp" width=964 
+            border=0></TD></TR></TBODY></TABLE><!-- google_ad_section_end --></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=5 cellPadding=0 width=980 align=center bgColor=#f7f7f7>
+  <TBODY>
+  <TR>
+    <TD bgColor=white>
+      <TABLE cellSpacing=1 cellPadding=0 width="100%" bgColor=#e6e6e6 
+        border=0><TBODY>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=10 width="100%" bgColor=white 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <SCRIPT type=text/javascript><!--
+google_ad_client = "pub-6158058519275033";
+google_ad_width = 728;
+google_ad_height = 15;
+google_ad_format = "728x15_0ads_al";
+//2007-11-17: adlink2
+google_ad_channel = "7577576260";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "0000FF";
+//-->
+</SCRIPT>
+
+                  <SCRIPT 
+                  src="wing_lift_equation_air_density.files/show_ads.htm" 
+                  type=text/javascript>
+</SCRIPT>
+                  <BR><BR>
+                  <SCRIPT type=text/javascript><!--
+google_ad_client = "pub-6158058519275033";
+google_ad_width = 728;
+google_ad_height = 15;
+google_ad_format = "728x15_0ads_al";
+//2007-11-20: adlink3
+google_ad_channel = "8703187555";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "0000FF";
+google_color_url = "0000FF";
+//-->
+</SCRIPT>
+
+                  <SCRIPT 
+                  src="wing_lift_equation_air_density.files/show_ads.htm" 
+                  type=text/javascript>
+</SCRIPT>
+                </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=5 cellPadding=0 width=980 align=center bgColor=#f7f7f7>
+  <TBODY>
+  <TR>
+    <TD vAlign=top width="100%">
+      <TABLE cellSpacing=1 cellPadding=0 width="100%" bgColor=#e6e6e6 
+        border=0><TBODY>
+        <TR>
+          <TD><!--start of entry-->
+            <TABLE cellSpacing=0 cellPadding=5 width="100%" bgColor=white 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="100%">
+                  <DIV align=left>
+                  <P align=center><BR><STRONG>Aircraft Airplane Wing Lift Design 
+                  Equations and Formulas Calculator<BR></STRONG>Aerospace 
+                  Aerodynamics </P>
+                  <HR>
+
+                  <P align=center>Solving For Air Density<BR><BR><IMG height=42 
+                  alt="Air Density" 
+                  src="wing_lift_equation_air_density.files/wing_lift_equation_air_density.png" 
+                  width=80></P>
+                  <HR>
+                  Inputs:<BR>
+                  <FORM action=wing_lift_equation_air_density.php method=post>
+                  <TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD>lift force (L)&nbsp;</TD>
+                      <TD><INPUT size=25 name=value_L></TD>
+                      <TD><SELECT name=unit_L> <OPTION value=newton 
+                          selected>newton</OPTION> <OPTION 
+                          value=dyne>dyne</OPTION> <OPTION 
+                          value="gram force">gram force</OPTION> <OPTION 
+                          value=kilogram-meter/second^2>kilogram-meter/second^2</OPTION> 
+                          <OPTION value="kilogram force">kilogram force</OPTION> 
+                          <OPTION value=kip>kip</OPTION> <OPTION 
+                          value="pound force">pound force</OPTION> <OPTION 
+                          value=poundal>poundal</OPTION></SELECT> </TD></TR>
+                    <TR>
+                      <TD>lift coefficient (C<SUB>L</SUB>)&nbsp;</TD>
+                      <TD><INPUT size=25 name="value_C<sub>L</sub>"></TD>
+                      <TD></TD></TR>
+                    <TR>
+                      <TD>velocity (V)&nbsp;</TD>
+                      <TD><INPUT size=25 name=value_V></TD>
+                      <TD><SELECT name=unit_V> <OPTION value=meter/second 
+                          selected>meter/second</OPTION> <OPTION 
+                          value=centimeter/hour>centimeter/hour</OPTION> <OPTION 
+                          value=centimeter/second>centimeter/second</OPTION> 
+                          <OPTION value=foot/day>foot/day</OPTION> <OPTION 
+                          value=foot/second>foot/second</OPTION> <OPTION 
+                          value=inch/hour>inch/hour</OPTION> <OPTION 
+                          value=inch/second>inch/second</OPTION> <OPTION 
+                          value=kilometer/second>kilometer/second</OPTION> 
+                          <OPTION value=knot>knot</OPTION> <OPTION 
+                          value="mach sea level 15 C">mach sea level 15 
+                          C</OPTION> <OPTION value=meter/day>meter/day</OPTION> 
+                          <OPTION value=mile/hour>mile/hour</OPTION> <OPTION 
+                          value=mile/second>mile/second</OPTION> <OPTION 
+                          value=millimeter/second>millimeter/second</OPTION> 
+                          <OPTION value="speed of light in vacuum">speed of 
+                          light in vacuum</OPTION> <OPTION 
+                          value=yard/second>yard/second</OPTION></SELECT> </TD></TR>
+                    <TR>
+                      <TD>surface area (A)&nbsp;</TD>
+                      <TD><INPUT size=25 name=value_A></TD>
+                      <TD><SELECT name=unit_A> <OPTION value=meter^2 
+                          selected>meter^2</OPTION> <OPTION 
+                          value="acre international">acre international</OPTION> 
+                          <OPTION value="acre US survey">acre US survey</OPTION> 
+                          <OPTION value=are>are</OPTION> <OPTION 
+                          value=barn>barn</OPTION> <OPTION 
+                          value=centimeter^2>centimeter^2</OPTION> <OPTION 
+                          value=foot^2>foot^2</OPTION> <OPTION 
+                          value=hectare>hectare</OPTION> <OPTION 
+                          value=inch^2>inch^2</OPTION> <OPTION 
+                          value=kilometer^2>kilometer^2</OPTION> <OPTION 
+                          value=mile^2>mile^2</OPTION> <OPTION 
+                          value="mile^2 nautical">mile^2 nautical</OPTION> 
+                          <OPTION value=ping>ping</OPTION> <OPTION 
+                          value=township>township</OPTION> <OPTION 
+                          value=yard^2>yard^2</OPTION></SELECT> 
+                  </TD></TR></TBODY></TABLE>
+                  <DIV align=center>
+                  <P><INPUT type=hidden value=1 name=button><INPUT type=submit value=Calculate name=submit></P></DIV></FORM>
+                  <HR>
+                  Conversions: <BR>
+                  <TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD>L</TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>0 &nbsp;</TD>
+                      <TD></TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>0 &nbsp;</TD>
+                      <TD>newton </TD></TR>
+                    <TR>
+                      <TD>C<SUB>L</SUB></TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>0 &nbsp;</TD>
+                      <TD></TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>0 &nbsp;</TD>
+                      <TD></TD></TR>
+                    <TR>
+                      <TD>V</TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>0 &nbsp;</TD>
+                      <TD></TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>0 &nbsp;</TD>
+                      <TD>meter/second </TD></TR>
+                    <TR>
+                      <TD>A</TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>0 &nbsp;</TD>
+                      <TD></TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>0 &nbsp;</TD>
+                      <TD>meter^2 </TD></TR></TBODY></TABLE><BR>
+                  <HR>
+                  Solution:<BR>
+                  <TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD>air density (p)</TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>HAS NOT BEEN CALCULATED&nbsp;</TD>
+                      <TD></TD></TR></TBODY></TABLE><BR>
+                  <HR>
+                  Other Units: <BR><BR>
+                  <HR>
+
+                  <DIV align=center><STRONG>Change Equation</STRONG><BR>Select 
+                  an equation to solve for a different unknown<BR><BR>Aircraft 
+                  and airplane wing lift equations <BR>
+                  <TABLE cellSpacing=0 cellPadding=5 border=1>
+                    <TBODY>
+                    <TR>
+                      <TD><A 
+                        href="http://www.ajdesigner.com/phpwinglift/wing_lift_equation_force.php"><IMG 
+                        height=38 alt="lift force" 
+                        src="wing_lift_equation_air_density.files/l_wing_lift_equation_force.png" 
+                        width=98 border=0></A></TD>
+                      <TD>Solve for lift force</TD></TR>
+                    <TR>
+                      <TD><A 
+                        href="http://www.ajdesigner.com/phpwinglift/wing_lift_equation_coefficient.php"><IMG 
+                        height=41 alt="lift coefficient" 
+                        src="wing_lift_equation_air_density.files/l_wing_lift_equation_coefficient.png" 
+                        width=82 border=0></A></TD>
+                      <TD>Solve for lift coefficient</TD></TR>
+                    <TR>
+                      <TD><A 
+                        href="http://www.ajdesigner.com/phpwinglift/wing_lift_equation_air_density.php"><IMG 
+                        height=42 alt="air density" 
+                        src="wing_lift_equation_air_density.files/l_wing_lift_equation_air_density.png" 
+                        width=80 border=0></A></TD>
+                      <TD>Solve for air density</TD></TR>
+                    <TR>
+                      <TD><A 
+                        href="http://www.ajdesigner.com/phpwinglift/wing_lift_equation_surface_velocity.php"><IMG 
+                        height=49 alt=velocity 
+                        src="wing_lift_equation_air_density.files/l_wing_lift_equation_velocity.png" 
+                        width=82 border=0></A></TD>
+                      <TD>Solve for velocity</TD></TR>
+                    <TR>
+                      <TD><A 
+                        href="http://www.ajdesigner.com/phpwinglift/wing_lift_equation_surface_area.php"><IMG 
+                        height=42 alt="lift surface area" 
+                        src="wing_lift_equation_air_density.files/l_wing_lift_equation_surface_area.png" 
+                        width=82 border=0></A></TD>
+                      <TD>Solve for lift surface 
+                  area</TD></TR></TBODY></TABLE><BR>Where <BR></DIV>
+                  <TABLE cellSpacing=0 cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD>L</TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>lift force</TD></TR>
+                    <TR>
+                      <TD>C<SUB>L</SUB></TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>lift coefficient&nbsp;</TD></TR>
+                    <TR>
+                      <TD>p</TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>air density&nbsp;</TD></TR>
+                    <TR>
+                      <TD>V</TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>velocity&nbsp;</TD></TR>
+                    <TR>
+                      <TD>A</TD>
+                      <TD>&nbsp;=&nbsp;</TD>
+                      <TD>lift surface area</TD></TR></TBODY></TABLE><BR>
+                  <HR>
+                  Reference - Books:<BR><BR>1) Munson, B.R., D. F. Young, and T. 
+                  H. Okiishi. 1994. Fundamentals of Fluid Mechanics. John Wiley 
+                  and Sons, Inc. 2nd ed. 
+                  <HR>
+                  <BR></DIV></TD></TR></TBODY></TABLE><!--end of entry--></TD></TR></TBODY></TABLE></TD>
+    <TD vAlign=top>
+      <TABLE cellSpacing=1 cellPadding=0 width="100%" bgColor=#e6e6e6 
+        border=0><TBODY>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=5 width="100%" bgColor=white 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <SCRIPT type=text/javascript><!--
+google_ad_client = "pub-6158058519275033";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+//2007-11-10: rectangle
+google_ad_channel = "9489339674";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "000000";
+//-->
+</SCRIPT>
+
+                  <SCRIPT 
+                  src="wing_lift_equation_air_density.files/show_ads.htm" 
+                  type=text/javascript>
+</SCRIPT>
+
+                  <HR>
+<!-- google_ad_section_start(weight=ignore) --><A 
+                  href="http://www.ajdesigner.com/speaker/index.php"><FONT 
+                  face="Verdana, Arial, Helvetica, sans-serif" size=2>Subwoofer 
+                  Box Software Downloads for Sealed, Ported and 
+                  Bandpass</FONT></A> 
+                  <HR>
+                  <A 
+                  href="http://www.ajdesigner.com/phpearnedvalue/cost_performance_index.php"><FONT 
+                  face="Verdana, Arial, Helvetica, sans-serif" size=2>Earned 
+                  Value Project Management</FONT></A> 
+                  <HR>
+                  <A 
+                  href="http://www.ajdesigner.com/phppresentworth/present_worth_value_equation.php"><FONT 
+                  face="Verdana, Arial, Helvetica, sans-serif" size=2>Present 
+                  Worth Economics Calculator</FONT></A> 
+                  <HR>
+                  <A 
+                  href="http://www.ajdesigner.com/constantacceleration/cavelocity.php"><FONT 
+                  face="Verdana, Arial, Helvetica, sans-serif" size=2>Constant 
+                  Acceleration Motion Calculator</FONT></A> 
+                  <HR>
+                  <A 
+                  href="http://www.ajdesigner.com/phpstatistics/standard_deviation_population.php"><FONT 
+                  face="Verdana, Arial, Helvetica, sans-serif" size=2>Statistics 
+                  Equations Formulas Calculator</FONT></A> 
+                  <HR>
+                  <A href="http://www.ajdesigner.com/mortgage.php"><FONT 
+                  face="Verdana, Arial, Helvetica, sans-serif" size=2>Mortgage 
+                  Payment Finance Calculator</FONT></A> 
+                  <HR>
+                  <A 
+                  href="http://www.ajdesigner.com/fl_horsepower_trap_speed/horsepower_trap_speed.php"><FONT 
+                  face="Verdana, Arial, Helvetica, sans-serif" size=2>Engine 
+                  Horsepower Calculator Trap Speed</FONT></A> 
+                  <HR>
+                  <A 
+                  href="http://www.ajdesigner.com/phpweightloss/weight_loss_equations_female_metabolic_rate_bmr_calorie_day.php"><FONT 
+                  face="Verdana, Arial, Helvetica, sans-serif" size=2>Weight 
+                  Loss Formulas Calculator</FONT></A> 
+                  <HR>
+                  <A 
+                  href="http://www.ajdesigner.com/fl_light_bulb/light_bulb.php"><FONT 
+                  face="Verdana, Arial, Helvetica, sans-serif" 
+                  size=2>Fluorescent Light Bulb Cost Analysis 
+                  Calculator</FONT></A> 
+                  <HR>
+                  <A href="http://www.ajdesigner.com/fl_loan/loan.php"><FONT 
+                  face="Verdana, Arial, Helvetica, sans-serif" size=2>Car Truck 
+                  Automobile Loan Calculator</FONT></A> <!-- google_ad_section_end --></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=5 cellPadding=0 width=980 align=center bgColor=#f7f7f7>
+  <TBODY>
+  <TR>
+    <TD bgColor=white>
+      <TABLE cellSpacing=1 cellPadding=0 width="100%" bgColor=#e6e6e6 
+        border=0><TBODY>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=5 width="100%" bgColor=white 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <P align=center><A href="http://www.ajdesigner.com/">AJ Design 
+                  - Online Science Mathematics Engineering Software Programs</A> 
+                  | <A href="http://www.ajdesigner.com/index_02.htm">2</A> | <A 
+                  href="http://www.ajdesigner.com/index_03.htm">3</A> | <A 
+                  href="http://www.ajdesigner.com/index_04.htm">4</A></P>
+                  <P align=center>Applications For Engineers and Scientists</P>
+                  <P align=center><A 
+                  href="http://www.ajdesigner.com/legal.php">Disclaimer and 
+                  Terms</A></P>
+                  <P align=center>Copyright 
+        2002-2007</P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!--end of tables--></BODY></HTML>

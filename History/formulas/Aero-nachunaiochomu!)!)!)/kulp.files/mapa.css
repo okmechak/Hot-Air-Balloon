@@ -1,0 +1,177 @@
+H1.c {
+	FONT: bold 10pt Verdana, Helvetica, sans-serif; COLOR: #69c; TEXT-ALIGN: center
+}
+TD {
+	FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+TD.lan {
+	FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+TD.lan_border {
+	BACKGROUND-COLOR: #6699cc
+}
+TD.logo {
+	
+}
+TD.nav {
+	FONT-SIZE: 8pt; COLOR: #336699; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+TD.nav_border {
+	BACKGROUND-COLOR: #c0daeb
+}
+TD.menu_border {
+	BACKGROUND-COLOR: #c0daeb
+}
+TD.menu_title {
+	BACKGROUND-COLOR: #cccccc
+}
+TD.menu {
+	BACKGROUND-COLOR: #f5f5f5
+}
+TD.block {
+	FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f5f5f5
+}
+TD.block_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #cccccc
+}
+TD.block_border {
+	BACKGROUND-COLOR: #c0daeb
+}
+TD.bottom_border {
+	FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #c0daeb
+}
+TD.bottom {
+	FONT-SIZE: 7pt; COLOR: #333333
+}
+P {
+	FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+P.bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+LI {
+	FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+P.menu {
+	FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+P.sub_menu {
+	FONT-SIZE: 7pt; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+H1 {
+	FONT-SIZE: 20pt; COLOR: #c0daeb; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H2 {
+	MARGIN-TOP: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11pt; MARGIN-BOTTOM: 0px; COLOR: #6699cc; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #6699cc; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+A.bottom:link {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A.bottom:visited {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A.bottom:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A.menu:link {
+	FONT-SIZE: 7pt; TEXT-TRANSFORM: uppercase; COLOR: #333333; TEXT-DECORATION: none
+}
+A.menu:visited {
+	FONT-SIZE: 7pt; TEXT-TRANSFORM: uppercase; COLOR: #333333; TEXT-DECORATION: none
+}
+A.menu:hover {
+	FONT-SIZE: 7pt; COLOR: #38a0e4; TEXT-DECORATION: none
+}
+A.shop:link {
+	FONT-SIZE: 8pt; CURSOR: hand; COLOR: #333333; TEXT-DECORATION: underline
+}
+A.shop:visited {
+	FONT-SIZE: 8pt; CURSOR: hand; COLOR: #333333; TEXT-DECORATION: underline
+}
+A.shop:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; CURSOR: hand; COLOR: #333333; TEXT-DECORATION: none
+}
+A.lan:link {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+A.lan:visited {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+A.lan:hover {
+	COLOR: #aa5500; TEXT-DECORATION: none
+}
+A.nav:link {
+	COLOR: #336699; TEXT-DECORATION: none
+}
+A.nav:visited {
+	COLOR: #336699; TEXT-DECORATION: none
+}
+A.nav:hover {
+	COLOR: #336699; TEXT-DECORATION: underline
+}
+A.block:link {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.block:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.block:hover {
+	COLOR: #aa5500; TEXT-DECORATION: underline
+}
+A:link {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #aa5500; TEXT-DECORATION: underline
+}
+.submit_right {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 8pt; BORDER-LEFT: #666666 1px solid; WIDTH: 100%; CURSOR: hand; COLOR: #333333; BORDER-BOTTOM: #666666 1px solid; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fafafa
+}
+.submit_main {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; WIDTH: 100%; CURSOR: hand; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fafafa
+}
+.submit_small {
+	FONT-SIZE: 8pt; WIDTH: 150px; CURSOR: hand; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; HEIGHT: 20px; BACKGROUND-COLOR: #fafafa
+}
+TD.right_menu {
+	FONT-SIZE: 8pt
+}
+A.right_menu:link {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.right_menu:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.right_menu:hover {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+TD.news_tit {
+	COLOR: #b77a7f
+}
+TD.right_tit {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #b77a7f; FONT-FAMILY: Verdana
+}
+.catalog_tit {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #006699; FONT-FAMILY: Verdana
+}
+A.catalog_tit:link {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.catalog_tit:visited {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.catalog_tit:hover {
+	COLOR: #006699; TEXT-DECORATION: underline
+}
+SPAN.active {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: #c0daeb
+}
+.field {
+	FONT-SIZE: 8pt; WIDTH: 100%; COLOR: #333333; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fafafa
+}

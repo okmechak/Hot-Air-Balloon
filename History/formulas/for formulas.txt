@@ -1,0 +1,53 @@
+List of  FORMULAS:
+_____________________________
+0.Lift in stationary glide:   A=m*g   [ N ]. 
+1. Lift coefficient:             Ca = A / ( po / 2 ) * sqr ( V ) * S       [ - ].
+2.Drag coefficient:           Cw = W / ( po / 2 ) * sqr ( V ) * S       [ - ].
+3. Moment coefficient:     Cm = M / ( po / 2 ) * sqr ( V ) * S * t   [ - ].
+4. Reynolds number:        Re = ( t * V * po ) / n  [ - ]      simplified : Re = t * V * 70 000  [ - ].
+5. Drag coefficient of a flat plate, laminar flow: Cw = 2,656 / sqrt ( Re ).
+6.Drag coefficient of a flat plate, turbulent flow:
+7.Combined drag coefficient, general
+8.Airplane drag coefficient
+9.Fuse surface area.
+10. Fuse drag coefficient.
+11.Aspect ratio
+12.Glide ratio
+13.Glide angle.
+14.Mean chord of a trapezoid wing
+15.Turn radius.
+16.Energy loss due to drag.
+17.Climb rate in powered flight
+18.Flight speed
+19.Sink speed
+20.Horizontal stab factor
+21.Lift coefficient of horizontal stab
+22.Induced angle of attack
+23.Induced drag coefficient
+
+k = correction factor for wing geometry (0 for an elliptic planform with no washout)
+
+List Of Constant:
+_____________________________
+Air density 1,225 kg/m³
+Gravitational constant 9,81 m/s² 
+Dynamical viscosity 0,0000174 Pa·s (Air, 15°C)
+Pi  3,1415    
+
+List of Symbols:
+______________________________
+1.       S     ---  Area [m²] .
+2.       Ca   ---  Lift coefficient [-].          
+3.       Cm  ---  Moment coefficient [-].            
+4.       s     ---  Flight  distance  [m] .
+5.       Cw  ---  Drag coefficient [-].     
+6.       t      ---  Chord [m]. 
+7.       A     ---  Lift [N].           
+8.       V     ---  Speed [m/s]. 
+9.       b     ---  Wingspan [m].           
+10.     W   ---  Drag [N]. 
+11.      E    ---  Glide ratio [-].           
+12.      M    ---  Momentum [Nm]
+13.      m   ---   Mass [kg]         
+14.      ?    ---  Aspect ratio [-] 
+15.      Re ---  Reynolds number [-]               

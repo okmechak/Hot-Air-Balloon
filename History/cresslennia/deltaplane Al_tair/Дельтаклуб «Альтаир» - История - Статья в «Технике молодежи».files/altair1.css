@@ -1,0 +1,177 @@
+BODY TD TR TABLE {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial,sans-serif
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: #fbd49b
+}
+A:link {
+	FONT-SIZE: 14px; COLOR: #000080; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 14px; COLOR: #000080; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+H1 {
+	COLOR: #c0c0c0; FONT-FAMILY: Times New Roman, serif; TEXT-ALIGN: center
+}
+H2 {
+	FONT-WEIGHT: 400; FONT-SIZE: 200%; COLOR: #000080; FONT-FAMILY: Arial, sans-serif
+}
+H2.attrib {
+	MARGIN-BOTTOM: 4px
+}
+H3 {
+	FONT-WEIGHT: 200; FONT-SIZE: 160%; COLOR: #000080; LETTER-SPACING: 0.01em; TEXT-ALIGN: left
+}
+H3.ord {
+	COLOR: #000000; TEXT-ALIGN: center
+}
+H3.attrib {
+	MARGIN-BOTTOM: 4px
+}
+STRONG {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial,sans-serif; LETTER-SPACING: 0.05em
+}
+DD {
+	MARGIN-LEFT: 15px
+}
+SUB {
+	FONT-SIZE: 80%
+}
+SUP {
+	FONT-SIZE: 80%
+}
+STRONG.brown {
+	FONT-WEIGHT: 700; FONT-SIZE: 14px; COLOR: #d2691e; FONT-FAMILY: Arial,sans-serif
+}
+STRONG.green {
+	FONT-WEIGHT: 400; FONT-SIZE: 14px; COLOR: #006000; FONT-FAMILY: Arial,sans-serif
+}
+STRONG.blue {
+	FONT-SIZE: 14px; COLOR: #000080; FONT-FAMILY: Arial,sans-serif; LETTER-SPACING: 0.05em
+}
+TD.lim {
+	WIDTH: 2px; BACKGROUND-COLOR: #ffffff
+}
+TD.topline {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 12px; BACKGROUND: #fbd49b; PADDING-BOTTOM: 5px; WIDTH: 100%; PADDING-TOP: 5px; HEIGHT: 30px
+}
+TD.base {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; BACKGROUND-COLOR: #ffe4b5
+}
+TD.nav {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; WIDTH: 12%; BACKGROUND-COLOR: #fbd49b; TEXT-ALIGN: center
+}
+TD.nav2 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; WIDTH: 12%; BACKGROUND-COLOR: #fdeeba; TEXT-ALIGN: center
+}
+PRE {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, sans-serif
+}
+.left {
+	FLOAT: left; MARGIN: 5px 10px 5px 0px
+}
+.right {
+	FLOAT: right; MARGIN: 5px 0px 5px 10px
+}
+.section {
+	FONT-WEIGHT: 200; FONT-SIZE: 20px; COLOR: #000080; FONT-FAMILY: Arial, sans-serif; LETTER-SPACING: 0.02em
+}
+.hd_dark {
+	FONT-WEIGHT: 200; FONT-SIZE: 175%; COLOR: #000080; LETTER-SPACING: 0.02em; TEXT-ALIGN: left
+}
+.hd_br {
+	FONT-WEIGHT: 200; FONT-SIZE: 175%; COLOR: #d2691e; LETTER-SPACING: 0.02em; TEXT-ALIGN: left
+}
+.hd_br2 {
+	FONT-WEIGHT: 500; FONT-SIZE: 130%; COLOR: #d2691e; LETTER-SPACING: 0.01em; TEXT-ALIGN: left
+}
+.hd_sk {
+	FONT-WEIGHT: 500; FONT-SIZE: 20px; COLOR: #005fff; LETTER-SPACING: 0.01em
+}
+.ny {
+	BACKGROUND-IMAGE: url(http://www.protec.kiev.ua/~luda/altair/image/fest/bg.gif); COLOR: #6f93c2; BACKGROUND-COLOR: #ffffff
+}
+.hd_ny {
+	FONT-WEIGHT: 200; FONT-SIZE: 220%; COLOR: #6f93c2; LETTER-SPACING: 0.02em
+}
+.schwarz {
+	FONT-WEIGHT: 200; FONT-SIZE: 175%; COLOR: #000000; LETTER-SPACING: 0.02em
+}
+.petit {
+	FONT-SIZE: 95%; FONT-FAMILY: Arial, sans-serif; TEXT-ALIGN: left
+}
+.author {
+	FONT-SIZE: 14px; COLOR: #d2691e; FONT-FAMILY: Arial,sans-serif
+}
+A.author:link {
+	FONT-SIZE: 14px; COLOR: #d2691e; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A.author:hover {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A.author:visited {
+	FONT-SIZE: 14px; COLOR: #d2691e; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A.author:hover {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+.article {
+	FONT-SIZE: 13px; FONT-FAMILY: Verdana, sans-serif; TEXT-ALIGN: justify
+}
+.date {
+	FONT-SIZE: 95%; FONT-FAMILY: Arial,sans-serif; LETTER-SPACING: 0.05em; TEXT-ALIGN: right
+}
+.comment {
+	FONT-SIZE: 95%; FONT-STYLE: italic; FONT-FAMILY: Arial,sans-serif; TEXT-ALIGN: left
+}
+.painter {
+	FONT-SIZE: 95%; COLOR: #999999; FONT-FAMILY: Arial,sans-serif; TEXT-ALIGN: center
+}
+A.painter:link {
+	FONT-SIZE: 95%; COLOR: #999999; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A.painter:hover {
+	FONT-SIZE: 95%; COLOR: #999999; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A.painter:visited {
+	FONT-SIZE: 95%; COLOR: #999999; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A.painter:hover {
+	FONT-SIZE: 95%; COLOR: #999999; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+.mark {
+	FONT-WEIGHT: 700; FONT-SIZE: 16px; COLOR: #d2691e; FONT-FAMILY: Arial,sans-serif
+}
+.mark_num {
+	FONT-SIZE: 14px; COLOR: #aa0000; FONT-FAMILY: Arial,sans-serif
+}
+.atr {
+	FONT-SIZE: 14px; COLOR: #000060; FONT-FAMILY: Arial,sans-serif
+}
+.cap {
+	FONT-WEIGHT: 600; FONT-SIZE: 14px; FONT-STYLE: italic; FONT-FAMILY: Arial,sans-serif
+}
+.losung {
+	FONT-WEIGHT: 200; FONT-SIZE: 175%; COLOR: #000080; TEXT-ALIGN: center
+}
+A.journal:link {
+	FONT-WEIGHT: 700; FONT-SIZE: 16px; COLOR: #777799; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A.journal:hover {
+	FONT-WEIGHT: 700; FONT-SIZE: 16px; COLOR: #ffffff; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A.journal:visited {
+	FONT-WEIGHT: 700; FONT-SIZE: 16px; COLOR: #777799; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+A.journal:hover {
+	FONT-WEIGHT: 700; FONT-SIZE: 16px; COLOR: #ffffff; FONT-FAMILY: Arial,sans-serif; TEXT-DECORATION: none
+}
+TABLE#ground {
+	FONT-SIZE: 14px; MARGIN-BOTTOM: 0px; MARGIN-LEFT: 10%; MARGIN-RIGHT: 10%; HEIGHT: 100%; BACKGROUND-COLOR: #fbd49b
+}

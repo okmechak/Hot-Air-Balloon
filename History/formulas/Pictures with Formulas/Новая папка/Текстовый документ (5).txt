@@ -1,0 +1,17 @@
+Recent research on R/C bird models has produced two results that should be of interest to flying wing advocates. I found that the usual approximations for locating the aerodynamic center (ac) for a complex wing planform (like a bird wing), were producing results that were not conservative.  I went back to the basic definitions and derived a method for dividing the wing into segments and doing a piecewise integration over the semi-span of the wing. This method produces a value for the mean aerodynamic chord, and a location for the aerodynamic center (a good starting point for the cg location for a flying wing). The method has been quite helpful to me in bird model design and construction, but I would appreciate a review by some of the other aero engineers within TWITT to make sure I didn't mess up the math. 
+     The second result is an empirical method for determining the amount of dihedral and wing sweep necessary for a wing-alone to be stable in the lateral-directional axis. The method estimates the amount of rolling and yawing produced by the wing when in sideslip. It assumes an elliptical lift distribution across the wing span, and uses small-angle approximations for the effects of dihedral and wing sweep. The result is a "number" (which I have called "dihedral effect"), for any wing shape. This number has no physical significance, but serves as an index to compare the relative stability of the wing with that of other wing shapes.  Experience on bird models indicates that the number should be between 10 and 20 for the wing to be stable without a vertical tail. 
+     The MAC and aerodynamic center table was assembled rather quickly. It seems to work, but I would really like for some of the aero engineers to check it out and make sure I didn't mess up the math. 
+
+I assumed the same airfoil over the entire wing. (Cmac = constant).  I then did a piecewise integration over the wing semispan of the equation; 
+
+Cmac *q*S*MAC = (integral) Cmac *q*c^2*dy 
+then solved for MAC. 
+
+The location is; 
+CL *q*S*xbar = (integral) Cl*q*xbar*c*dy 
+then solved for xbar. 
+
+Any comments would be appreciated. 
+
+Bob Hoey 
+
