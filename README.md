@@ -19,6 +19,17 @@ Also repository contains my own project for one person Hot Air Ballon(see folder
 Why Sunday? Becouse Ballon demmands good weather conditions for flight, temperature, wind, hummidity etc.. 
 in same way as we demand a good weather to sunday walk ;)
 
+Some main model parameters are contained in:
+- info.txt
+- main-parameters.txt
+- Money-And-Tools.txt
+
+But let write down two most imporatnt of them:
+- __Lift mass - 180 kg__ 
+- __Volume - 650 m^3__
+
+As you can see it is pretty big balloon!
+
 ### Geometry
 ![Geometry of Sunday](Type-A14-Sunday/12-20-2010-8-21-52-PM.bmp)
 
